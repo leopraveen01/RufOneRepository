@@ -6,6 +6,7 @@ Feature: Blaze booking travel agency  going to find Flights
     When Choose "<DepartureCity>" and "<DestinationCity>"
     And Check enable of Find flight button and click
     Then Validate next page navicated or not
+    then conflictttttttttttttttttttttttttttttttt
     Then mmmmmm
     Then mmmm
 
